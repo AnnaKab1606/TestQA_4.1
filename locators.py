@@ -8,3 +8,5 @@ class MainPageLocators():
 class LoginPageLocators():
     LOGIN_FORM = (By.ID, 'login_form')
     LOGIN_REGISTER_FORM = (By.ID, 'register_form')
+
+
